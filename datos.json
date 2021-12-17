@@ -1,0 +1,5 @@
+[
+    {"id":1, "nombre":"Veggiewich de Garbanzos y Calabaza", "imagen": "../media/hamburguesas_garbanzos_calabaza.jpg", "precio": 150, "descripción":["Sandwich con medallón de Garbanzos y Calabaza, pan de Salvado, rúcula, tomate y salsa de queso vegano."] },
+    {"id":2, "nombre":"Veggiewich de Lentejas", "imagen":"../media/hamburguesas_lentejas.jpg", "precio": 115, "descripción": ["Sandwich con medallón de lentejas, pan de centeno, lechuga, tomate, cebolla caramelizada, ketchup y mostaza."]},
+    {"id":3, "nombre":"Veggiewich de Quinoa y Zanahoria", "imagen":"../media/hamburguesas_quinoa_zanahoria.jpg", "precio": 160, "descripción": ["Sandwich con medallón de quinoa y zanahoria, pan de salvado, queso vegano, tomate, cebolla caramelizada y barbacoa."]}
+]
