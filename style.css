@@ -5,12 +5,59 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.nav__style {
-    background-color: white;
-}
+
 img {
     height: 8em;
 }
+
+.logo {
+    height: 3em;
+}
+
+.parrafo{
+    padding: 50px;
+    text-align: justify;
+}
+
+.quienSomos{
+
+    padding: 50px;
+    height: 100vh;
+    border-radius: 100px;
+}
+
+.organizacion__presentacion {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#nosotros {
+    background-color: #fdf6eb;
+
+}
+
+#formulario {
+    background-color: #fdf6eb;
+}
+
+#contenedor_productos {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+#columna__producto  {
+    display: flex;
+    flex-wrap: column wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+/*.backFooter {
+    background-color: #fdf6eb;
+}*/
